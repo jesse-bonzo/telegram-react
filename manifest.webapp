@@ -3,7 +3,7 @@
     "description": "Telegram Web App React",
     "version": "0.0.1",
     "fullscreen": "true",
-    "launch_path": "/index.html",
+    "launch_path": "/telegram-react/index.html",
     "orientation": "portrait-primary",
     "cursor": true,
     "installs_allowed_from": [ "*" ],
