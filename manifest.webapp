@@ -2,7 +2,6 @@
     "name": "Telegram React",
     "description": "Telegram Web App React",
     "version": "0.0.1",
-    "type": "privileged",
     "fullscreen": "true",
     "launch_path": "/index.html",
     "orientation": "portrait-primary",
